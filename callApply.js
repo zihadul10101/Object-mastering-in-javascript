@@ -36,3 +36,4 @@ console.log(normalPersn.salary);
 
 const friendlyChargeBill=normalPersn.chargeBill.bind(friendlyPerson);
 friendlyChargeBill(1500);
+friendlyChargeBill(1500);
